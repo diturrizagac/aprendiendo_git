@@ -1,0 +1,4 @@
+paso 1 : cualquier cosa
+paso 2 : terminando desarrollo login
+paso 3 : refactor test unitarios
+paso 4 : feature terminado
