@@ -2,3 +2,4 @@ Hola hermono
 paso1 : haciendo clon a mi repo remoto
 paso2 : agregando archivos, haciendo cambios y commiteandolos
 paso3 : aprendiendo gitignore
+paso4 : realizando cambios como practica
