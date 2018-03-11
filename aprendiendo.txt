@@ -8,3 +8,5 @@ paso 6 : realizando cambios como practica
 paso 7 : practicando resolver conflictos
 paso 8 : resuelve este conflicto
 paso 9 : conflicto resuelto
+paso 10: para crear una nueva rama situarme en la rama origen por ejm master u otra y luego ejecutar (git checkout -b nueva_rama_master_test)
+paso 11: para intercambiar de ramas o entre ramas (git checkout ramatarget)
