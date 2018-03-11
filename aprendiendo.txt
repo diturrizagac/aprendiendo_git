@@ -1,3 +1,4 @@
 Hola hermono
-paso1 : aprendiendo git
-paso2 : practicando
+paso1 : haciendo clon a mi repo remoto
+paso2 : agregando archivos, haciendo cambios y commiteandolos
+paso3 : aprendiendo gitignore
