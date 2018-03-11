@@ -5,4 +5,6 @@ paso 3 : haciendo pull, siempre antes de hacer push (subir commits al remoto) de
 paso 4 : haciendo push
 paso 5 : aprendiendo gitignore
 paso 6 : realizando cambios como practica
-paso 7 : practicando resolver conflictos 
+paso 7 : practicando resolver conflictos
+paso 8 : resuelve este conflicto
+paso 9 : conflicto resuelto
