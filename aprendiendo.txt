@@ -4,3 +4,4 @@ paso 2 : agregando archivos, haciendo cambios y commiteandolos
 paso 3 : haciendo pull, siempre antes de hacer push (subir commits al remoto) debo hacer pull
 paso 4 : haciendo push
 paso 5 : aprendiendo gitignore
+paso 6 : realizando cambios como practica
