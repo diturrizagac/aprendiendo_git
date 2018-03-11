@@ -1,0 +1,3 @@
+Hola hermono
+paso1 : aprendiendo git
+paso2 : practicando
